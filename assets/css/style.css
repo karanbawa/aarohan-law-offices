@@ -13,7 +13,7 @@
 // Contents
 // ------------------------------------------------>
 
- 1.  Global Styles
+ 1.  Global Style
  2.  Typography
  3.	 Color
  4.	 Align
@@ -2434,7 +2434,7 @@ section {
   font-family: 'Open Sans', sans-serif;
   padding-left: 30px;
   position: relative;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .footer-widget .footer--widget-contact ul li i {
   position: absolute;
